@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Area</string>
+    <string name="ladoUno">Lado Uno</string>
+    <string name="ladoDos">Lado Dos</string>
+    <string name="valorUno">0</string>
+    <string name="valorDos">0</string>
+    <string name="send">Calcular</string>
+    <string name="baseUno">Base Uno</string>
+    <string name="valorBaseUno">0</string>
+    <string name="alturaUno">Altura Uno</string>
+    <string name="valorAlturaUno">0</string>
+</resources>
