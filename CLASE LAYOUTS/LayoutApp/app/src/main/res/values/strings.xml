@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Layout App</string>
+    <string name="boton">Botón</string>
+    <string name="botonDos">Botón 2</string>
+</resources>
