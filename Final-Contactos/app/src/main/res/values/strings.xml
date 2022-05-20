@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App Final</string>
+    <string name="nombreContacto">Mi persona</string>
+    <string name="ciudadContacto">Medellin</string>
+    <string name="profesionContacto">Desarrolador</string>
+    <string name="telefonoContacto">3005557988</string>
+    <string name="emailContacto">mauricio.henao@gmail.com</string>
+</resources>
